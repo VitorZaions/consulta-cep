@@ -1,0 +1,11 @@
+.Forms{
+    display: flow-root;
+    justify-content: space-between;
+    align-content: center;
+    padding: 10px;
+    vertical-align: middle; 
+}
+
+.forms input{
+    padding: 2px;
+}
